@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Weekly Status Reports 
 
 You can use the [editor on GitHub](https://github.com/degercanibek/web-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
