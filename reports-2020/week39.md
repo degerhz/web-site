@@ -1,5 +1,5 @@
 # IMDG
-##v4.1
+## v4.1
  - **IMDG v4.1-BETA-1** was released on **Sep 9**.
  - Zendesk issues (Ahmet, Petr, Matko)
  - SQL performance benchmarking, comparison with old query engine, Ignite and postgres (Vladimir)
